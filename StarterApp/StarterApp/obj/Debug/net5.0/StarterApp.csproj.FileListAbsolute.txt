@@ -1,0 +1,16 @@
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.exe
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.deps.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.runtimeconfig.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.runtimeconfig.dev.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\ref\StarterApp.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.csproj.AssemblyReference.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.AssemblyInfoInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.AssemblyInfo.cs
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.csproj.CoreCompileInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\ref\StarterApp.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.genruntimeconfig.cache
