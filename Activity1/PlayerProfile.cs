@@ -86,6 +86,12 @@ namespace CSharp.Activity.Profile
 
             #endregion
 
+            tempAge = currentYear - this.BirthDate.Year;
+            if (this.BirthDate.Month > currentMonth
+                || (this.BirthDate.Month == currentMonth
+                && this.BirthDate.Day > currentDayOfMonth))
+                --tempAge;
+
             return tempAge;
         }
     }
