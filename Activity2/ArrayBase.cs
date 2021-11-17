@@ -40,8 +40,11 @@ namespace CSharp.Activity.Datastore
             // If the value of 'arraySize' is illegal for an array, 
             // then use DEFAULT_SIZE instead.
 
-			//start solution
-			
+            if (arraySize < 0)
+                this.storeArray = new T[DEFAULT_SIZE];
+            else
+                this.storeArray = new T[arraySize];
+
         }
 
 
@@ -63,7 +66,7 @@ namespace CSharp.Activity.Datastore
         /// </returns>
         public bool IsFull()
             => (this.Count == this.Capacity);
-        
+
 
         /// <summary>
         /// Returns the maximum size of the array.
@@ -143,8 +146,18 @@ namespace CSharp.Activity.Datastore
             //    :::
             // }
 
-			//start solution
-			
+            for (int i = 0; i < storeArray.Length; i++)
+                //if (storeArray[i].Equals(argToFind))
+                if (argToFind.Equals(storeArray[i]))
+                    return i;
+            //int index = -1;
+            //foreach(T element in storeArray)
+            //{
+            //    index++;
+            //    if (element.Equals(argToFind))
+            //        return index;
+            //}
+
             return NOT_IN_STRUCTURE;
         }
 
@@ -159,9 +172,20 @@ namespace CSharp.Activity.Datastore
             //TODO Activity 2.3
             //Add item to the array if array is not full and return new item index, otherwise return NOT_IN_STRUCTURE.
 
-			//start solution
-			
-            return NOT_IN_STRUCTURE;
+            //if (this.IsFull())
+            //{
+            //    throw new IndexOutOfRangeException();
+            //}
+
+            if (currentCount >= Capacity)
+            {
+                return NOT_IN_STRUCTURE;
+            }
+            else
+            {
+                storeArray[currentCount++] = obj;
+                return Count;
+            }
         }
 
         /// <summary>
@@ -174,10 +198,20 @@ namespace CSharp.Activity.Datastore
             //TODO Activity 2.4
             //Remove item from the array, but if array is empty throw InvalidOperationException.
             //If the index is not last, compact remaining array items.
-			
-			//start solution
 
-            throw new InvalidOperationException("Impossible to remove.");
+            if (this.IsEmpty())
+            {
+                throw new InvalidOperationException("Impossible to remove.");
+            }
+
+            if (index < 0 || index > Capacity)
+            {
+                throw new InvalidOperationException("index");
+            }
+            else
+                for (int i = 0; i < storeArray.Length - 1; i++)
+                    storeArray[i] = storeArray[i + 1];
+
         }
     }
 }

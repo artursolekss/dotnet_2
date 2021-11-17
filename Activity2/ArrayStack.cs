@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Reflection;
 
 namespace CSharp.Activity.Datastore
@@ -51,8 +52,14 @@ namespace CSharp.Activity.Datastore
             if (!typeof(T).IsValueType && arg == null)
                 throw new ArgumentNullException("arg", "Input value cannot be null");
 
-            //start solution
-
+            if (Count == Capacity)
+            {
+                throw new InvalidOperationException("the stack is full");
+            }
+            else
+            {
+                this[Count++] = arg;
+            }
         }
 
 
@@ -69,9 +76,18 @@ namespace CSharp.Activity.Datastore
 
             //HINT: Remember that the bottom of the stack has index 0
 
-            //start solution
+            if (Count == 0)
+            {
+                throw new InvalidOperationException("the stack is empty...");
+            }
 
-            return default(T); // in the final solution this statement should be deleted or modified
+
+            Count--;
+            return this[Count];
+
+
+
+            //return default(T); // in the final solution this statement should be deleted or modified
         }
 
 
@@ -88,9 +104,14 @@ namespace CSharp.Activity.Datastore
 
             //HINT: Remember that the bottom of the stack is at the index 0
 
-			//start solution
-			
-            return default(T); // in the final solution this statement should be deleted or modified
+            if (Count == 0)
+            {
+                throw new InvalidOperationException();
+            }
+
+            return this[Count - 1];
+
+            //return default(T); // in the final solution this statement should be deleted or modified
         }
     }
 }
