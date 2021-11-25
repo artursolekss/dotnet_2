@@ -57,7 +57,7 @@ namespace Demo24112021
 
         public override string ToString()
         {
-            return string.Join(" ",this.elements.Select(x => x));
+            return string.Join(" ", this.elements);
         }
 
         public static Vector operator *(Vector vec, double c)
@@ -93,6 +93,39 @@ namespace Demo24112021
             return !(vec1 == vec2);
         }
 
+
+        //Let's assume that the vector a = (a1,a2,a3..) < b = (b1,b2,b3,..) if a1 < b1, a2 < b2,..
+        public static bool operator <(Vector vec1, Vector vec2)
+        {
+            if (vec1.Length != vec2.Length)
+                return false;
+
+            for (int i = 0; i < vec1.Length; i++)
+                if (vec1[i] >= vec2[i])
+                    return false;
+            return true;
+        }
+
+        public static bool operator >(Vector vec1, Vector vec2)
+        {
+            return vec2 < vec1;
+        }
+
+
+        //For all the comparisons, a <= b is the same as a == b || a < b
+        public static bool operator <=(Vector vec1, Vector vec2)
+        {
+            if (vec1.Length != vec2.Length)
+                return false;
+
+            return vec1 == vec2 || vec1 < vec2;
+        }
+
+        public static bool operator >=(Vector vec1, Vector vec2)
+        {
+            return vec2 <= vec1;
+        }
+
         public override bool Equals(object obj)
         {
             if (!(obj is Vector))
@@ -115,8 +148,6 @@ namespace Demo24112021
             return result;
 
         }
-
-
         private static void ValidateVectorSizes(Vector vec1, Vector vec2)
         {
             if (vec1.Length != vec2.Length)
