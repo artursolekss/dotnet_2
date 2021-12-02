@@ -27,7 +27,6 @@ namespace CSharp.Activity.Datastore
             }
 
             else
-
                 this[Count++] = argToAdd;
             return Count;
 

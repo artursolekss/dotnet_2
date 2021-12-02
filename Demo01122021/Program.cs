@@ -42,11 +42,22 @@ namespace Demo01122021
         }
     }
 
-    class MyLinkedList<T> : System.Collections.IEnumerable
+    public class MyLinkedList<T> : System.Collections.IEnumerable
     {
         private Node<T> firstElement = null;
         private Node<T> lastElement = null;
         private int size = 0;
+
+        public T GetLastElement()
+        {
+            return this.lastElement.Current;
+        }
+
+        public void PrintElements()
+        {
+            foreach (var element in this)
+                Console.WriteLine(element);
+        }
 
         public void AddLast(T element)
         {
@@ -116,7 +127,7 @@ namespace Demo01122021
             {
                 i++;
                 if (element.HasNext == false)
-                    return default(Node<T>);
+                    throw new ElementNotExist();
                 element = element.Next;
             }
             return element;
@@ -135,7 +146,7 @@ namespace Demo01122021
         public Node<T> GetLast()
         {
             if (this.firstElement == null)
-                return null;
+                throw new ElementNotExist();
             else
             {
                 Node<T> currentElement = this.firstElement;
@@ -148,13 +159,18 @@ namespace Demo01122021
         }
 
     }
-    class NodeKeyValue<K, V>
+
+    public class ElementNotExist : Exception
+    {
+    }
+
+    class Node<K, V>
     {
         public K Key { get; set; }
         public V Value { get; set; }
     }
 
-    class Node<T>
+    public class Node<T>
     {
         public Node<T> Previous { get; set; }
         public Node<T> Next { get; set; }
