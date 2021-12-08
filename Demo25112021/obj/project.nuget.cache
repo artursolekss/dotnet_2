@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jvmIGf+AJ2ZvWVJD2apTPG34uMcQlOfd8kQpBfbthiSktu5g07naDyMFP9StKs66cBthk6Vl8D0HcAohCNnp9Q==",
+  "dgSpecHash": "CCQh91c0prhgSCnYOqdPQG+7Zrk7u6Ee09e0Pi1Izp+zSUXaAl5dp60jxZN/Qnr0Ov+Gc3Z14gYOO3c0dmubGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Arturs Olekss\\Documents\\NET_lessons\\NET_80\\PracticalTasks\\Demo25112021\\Demo25112021.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

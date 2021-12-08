@@ -9,6 +9,14 @@ namespace CSharp.Activity.Datastore
     public class ArrayStore<T> : AbstractArrayStore<T>
     {
 
+        public ArrayStore() : base()
+        {
+        }
+
+        public ArrayStore(int size) : base(size)
+        {
+        }
+
         public override int Add(T argToAdd)
         {
 

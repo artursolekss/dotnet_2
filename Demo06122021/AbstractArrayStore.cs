@@ -16,6 +16,11 @@ namespace CSharp.Activity.Datastore
         //This is the actual structure that the class uses to store objects
         private T[] storeArray;
 
+        public AbstractArrayStore(int size)
+        {
+            this.storeArray = new T[size];
+        }
+
         protected void IncreaceCapacity()
         {
             int newCapacity = this.Capacity + DEFAULT_SIZE;

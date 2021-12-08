@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Activity7/1.0.0": {
+        "dependencies": {
+          "Demo06122021": "1.0.0"
+        },
+        "runtime": {
+          "Activity7.dll": {}
+        }
+      },
+      "Demo06122021/1.0.0": {
+        "runtime": {
+          "Demo06122021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo06122021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6P4ATWkBfb8Bn0PtHYuG/sbDEQM6M0LwdenLKmnE3Js3QENdORxoQADmBy7tdjuFYPTH77KOwTxjBasKtKypMw==",
+  "dgSpecHash": "fvTowXTE8tCMSCET0wuQKTqKzKKaMxo3WuDS54AKSV+aHmw4X2NDStBtZ8TkGaaLBUK/ATSXuiIDaLjlMOHbcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Arturs Olekss\\Documents\\NET_lessons\\NET_80\\PracticalTasks\\TestMyLinkedLists\\TestMyLinkedLists.csproj",
   "expectedPackageFiles": [
@@ -91,7 +91,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

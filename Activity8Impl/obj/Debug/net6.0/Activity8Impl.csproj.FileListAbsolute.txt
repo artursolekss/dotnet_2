@@ -1,0 +1,12 @@
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\bin\Debug\net6.0\Activity8Impl.deps.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\bin\Debug\net6.0\Activity8Impl.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\bin\Debug\net6.0\ref\Activity8Impl.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\bin\Debug\net6.0\Activity8Impl.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.csproj.AssemblyReference.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.AssemblyInfoInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.AssemblyInfo.cs
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.csproj.CoreCompileInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\ref\Activity8Impl.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity8Impl\obj\Debug\net6.0\Activity8Impl.pdb

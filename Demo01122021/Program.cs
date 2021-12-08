@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Collections;
 
 namespace Demo01122021
 {
@@ -38,6 +39,13 @@ namespace Demo01122021
             myList.AddAt(4, "HelloHereIamAgain");
             foreach (var element in myList)
                 Console.WriteLine(element);
+
+            ArrayList arLi = new ArrayList();
+            arLi.Add(12);
+            arLi.Add("sttr");
+
+            List<string> lst = new List<string>();
+            lst.Add("323123");
 
         }
     }
