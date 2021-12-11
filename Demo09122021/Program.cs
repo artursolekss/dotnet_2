@@ -67,7 +67,6 @@ namespace Demo06122021
             this.OnCollectionChanged += this.CopyPasteCollectionElements;
             this.DoSomeActionsOnCollection();
 
-
         }
 
         private void DoSomeActionsOnCollection()

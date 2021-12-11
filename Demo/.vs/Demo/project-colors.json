@@ -5,7 +5,67 @@
       "ProjectGuid": "47943dec-0234-4728-8a59-9840c927b5b3",
       "DisplayName": "Demo",
       "ColorIndex": 0
+    },
+    "0eb4f55e-9de8-41df-b019-caf4872ed6d1": {
+      "ProjectGuid": "0eb4f55e-9de8-41df-b019-caf4872ed6d1",
+      "DisplayName": "Demo29112021",
+      "ColorIndex": 1
+    },
+    "383ee022-f39a-4d59-8b6c-0fb7d0b6174f": {
+      "ProjectGuid": "383ee022-f39a-4d59-8b6c-0fb7d0b6174f",
+      "DisplayName": "Activity6D",
+      "ColorIndex": 2
+    },
+    "f1caf993-e891-4c22-a166-8534d5c7505b": {
+      "ProjectGuid": "f1caf993-e891-4c22-a166-8534d5c7505b",
+      "DisplayName": "Activity6.Test",
+      "ColorIndex": 3
+    },
+    "900b8b7c-1205-48b7-9b55-ccb366d998fc": {
+      "ProjectGuid": "900b8b7c-1205-48b7-9b55-ccb366d998fc",
+      "DisplayName": "TestMyLinkedLists",
+      "ColorIndex": 4
+    },
+    "639bf6e0-81eb-4017-b5bf-1dc497d2da8d": {
+      "ProjectGuid": "639bf6e0-81eb-4017-b5bf-1dc497d2da8d",
+      "DisplayName": "Activity7",
+      "ColorIndex": 5
+    },
+    "c3b477b1-dee0-409b-ab0e-d9e2c6ae9739": {
+      "ProjectGuid": "c3b477b1-dee0-409b-ab0e-d9e2c6ae9739",
+      "DisplayName": "Demo06122021",
+      "ColorIndex": 6
+    },
+    "36807307-ee5e-4de2-85d3-4de4d5a19d54": {
+      "ProjectGuid": "36807307-ee5e-4de2-85d3-4de4d5a19d54",
+      "DisplayName": "Activity7_Tests",
+      "ColorIndex": 7
+    },
+    "61eec068-a802-4678-bda1-0585217ecce2": {
+      "ProjectGuid": "61eec068-a802-4678-bda1-0585217ecce2",
+      "DisplayName": "Activity8",
+      "ColorIndex": 8
+    },
+    "b1b3938d-d42a-4073-8ba0-77425490429b": {
+      "ProjectGuid": "b1b3938d-d42a-4073-8ba0-77425490429b",
+      "DisplayName": "Activity8Impl",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e3442ba0-cfbc-4171-921b-919f15fbfad8": {
+      "ProjectGuid": "e3442ba0-cfbc-4171-921b-919f15fbfad8",
+      "DisplayName": "Activity8.Tests",
+      "ColorIndex": 10
+    },
+    "f745bd92-d7cf-4fb7-ab27-d233ff28e560": {
+      "ProjectGuid": "f745bd92-d7cf-4fb7-ab27-d233ff28e560",
+      "DisplayName": "Demo09122021",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 12
 }
