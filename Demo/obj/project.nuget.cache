@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "oaB9wz4rf0flZxhTtUc5c+LeDRZ/3c6EtV67RJQ5icfAdFosISzn9mNERgCAmO9KkT0LN0q9J0lYVi7DzFPX4g==",
+  "dgSpecHash": "kqpRQwBdnIH3DA72c0MZyWx2lXas+kkY2yQZeeyqfTJkXwkgHabiVCsRMsS5oMNmhFhiHuQTdIp0ttCfZLcmDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Arturs Olekss\\Documents\\NET_lessons\\NET_80\\PracticalTasks\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
     "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arturs Olekss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

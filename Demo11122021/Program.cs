@@ -104,7 +104,7 @@ namespace Demo11122021
         }
     }
 
-    class Country
+    public class Country
     {
         public int ID { get; set; }
         public string Name { get; set; }
@@ -114,7 +114,7 @@ namespace Demo11122021
 
         public override string ToString()
         {
-            return "Name:" + this.Name + ",Capital City:" + this.Capital + ",Currency:" + this.Currency + ",GDP:" + this.GDP;
+            return "ID:" + this.ID + ";Name:" + this.Name + ",Capital City:" + this.Capital + ",Currency:" + this.Currency + ",GDP:" + this.GDP;
         }
     }
 }

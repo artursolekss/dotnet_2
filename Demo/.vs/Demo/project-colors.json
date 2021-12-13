@@ -65,7 +65,17 @@
       "ProjectGuid": "f745bd92-d7cf-4fb7-ab27-d233ff28e560",
       "DisplayName": "Demo09122021",
       "ColorIndex": 11
+    },
+    "94c75dae-68fa-47e3-9701-345723cce348": {
+      "ProjectGuid": "94c75dae-68fa-47e3-9701-345723cce348",
+      "DisplayName": "Demo11112021",
+      "ColorIndex": 12
+    },
+    "315e7702-9c66-4465-832f-142921eba7bc": {
+      "ProjectGuid": "315e7702-9c66-4465-832f-142921eba7bc",
+      "DisplayName": "Demo11122021",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 14
 }
