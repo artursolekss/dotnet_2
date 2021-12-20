@@ -1,0 +1,14 @@
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\Demo20122021.exe
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\Demo20122021.deps.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\Demo20122021.runtimeconfig.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\Demo20122021.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\ref\Demo20122021.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\bin\Debug\net6.0\Demo20122021.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.AssemblyInfoInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.AssemblyInfo.cs
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.csproj.CoreCompileInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\ref\Demo20122021.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Demo20122021\obj\Debug\net6.0\Demo20122021.genruntimeconfig.cache

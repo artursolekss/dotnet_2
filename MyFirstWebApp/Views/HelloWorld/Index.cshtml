@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Person";
+
+    List<PersonModel> peopleList = (List<PersonModel>)this.ViewData["listOfPersons"];
+    string welcomeStr = (string)this.ViewData["welcomeStr"];
+    if (welcomeStr == null)
+        welcomeStr = "";
+}
+
+<h2>Persons</h2>
+
+@{
+    foreach(var person in peopleList)
+    {
+        <p>@person</p>
+    }
+}
+
+@model MyFirstWebApp.Models.PersonModel
+@using (Html.BeginForm())
+{
+    @Html.Label("Name")
+    @Html.TextBoxFor(model => model.Name);
+    @Html.Label("Surname")
+    @Html.TextBoxFor(model => model.Surname);
+    <button>Enter!</button>
+}
+@{
+    if (welcomeStr!= "")
+    {
+        <h1 style="color:blue">
+            @Html.DisplayFor(m=>welcomeStr)
+        </h1>
+    }
+}
+

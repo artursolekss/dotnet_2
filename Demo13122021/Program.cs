@@ -61,6 +61,7 @@ namespace Demo
             con.Open();
             foreach (Country country in countries)
             {
+     
                 string query = "INSERT INTO countries (`Name`, `Capital`, `Currency`, `GDP`, `External_ID`) " +
                     "VALUES (@name,@capital,@currency,@gdp,@external_id)";
                 MySqlParameter nameParam = new MySqlParameter("@name", MySqlDbType.VarChar);
@@ -68,9 +69,9 @@ namespace Demo
                 MySqlParameter currency = new MySqlParameter("@currency", MySqlDbType.VarChar);
                 MySqlParameter gdp = new MySqlParameter("@gdp", MySqlDbType.Double);
                 MySqlParameter extId = new MySqlParameter("@external_id", MySqlDbType.Int32);
+                extId.Value = country.Name;
                 var command = new MySqlCommand(query, con);
                 command.Parameters.Add(nameParam);
-                command.Parameters[0].Value = country.Name;
 
                 command.Parameters.Add(capital);
                 command.Parameters[1].Value = country.Capital;
@@ -86,6 +87,8 @@ namespace Demo
 
                 command.Prepare();
                 command.ExecuteNonQuery();
+                MySqlDataReader reader = command.ExecuteReader();
+
             }
             con.Close();
         }
