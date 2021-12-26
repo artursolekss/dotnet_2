@@ -1,0 +1,15 @@
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\TrainEvents.exe
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\TrainEvents.deps.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\TrainEvents.runtimeconfig.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\TrainEvents.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\ref\TrainEvents.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\bin\Debug\net6.0\TrainEvents.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.csproj.AssemblyReference.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.AssemblyInfoInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.AssemblyInfo.cs
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.csproj.CoreCompileInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\ref\TrainEvents.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\TrainEvents\obj\Debug\net6.0\TrainEvents.genruntimeconfig.cache

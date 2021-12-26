@@ -1,0 +1,11 @@
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\bin\Debug\net6.0\Activity9.deps.json
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\bin\Debug\net6.0\Activity9.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\bin\Debug\net6.0\ref\Activity9.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\bin\Debug\net6.0\Activity9.pdb
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.AssemblyInfoInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.AssemblyInfo.cs
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.csproj.CoreCompileInputs.cache
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\ref\Activity9.dll
+C:\Users\Arturs Olekss\Documents\NET_lessons\NET_80\PracticalTasks\Activity9\obj\Debug\net6.0\Activity9.pdb
